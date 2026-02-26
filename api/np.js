@@ -4,7 +4,7 @@ const router = express.Router();
 
 // --- CONFIGURATION (CLIENT) ---
 const CREDENTIALS = {
-    username: "Kami520",
+    username: "Kami555",
     password: "Kami526"
 };
 
